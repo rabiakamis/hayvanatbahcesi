@@ -20,3 +20,6 @@ Kodları kendi bilgisarınızda çalıştırmak için xampp klasöründen htdocs
 Aşağıda sistemi kısaca anlattığım videonun linki vardır videoyu izleyerek daha iyi anlayabilirsiniz. 
 
 - https://youtu.be/m42Fwfvgl1s?si=wJcZfClVQWWEHAsK
+
+# Site Linki
+- http://hayvanatbahcesi.great-site.net
