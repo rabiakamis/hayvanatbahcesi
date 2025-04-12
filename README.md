@@ -31,7 +31,7 @@ Yeni bir klasör oluşturup, projenin tüm dosyalarını bu klasöre aktarın.
 
 Tarayıcınızda localhost/webProjeOptional/index.php adresine giderek projeyi açın.
 
-🖥️ Sistem Gereksinimleri
+## 🖥️ Sistem Gereksinimleri
 XAMPP veya alternatif bir yerel sunucu (Apache, MySQL, PHP).
 
 PHP 7.0 veya daha yeni bir sürüm.
